@@ -1,0 +1,2 @@
+F:\GitHub\MSOpenTech\connectthedots\Devices\DirectlyConnectedDevices\NodeJS\IntelEdisonSensorTag\bin\Microsoft.NodejsTools.WebRole.dll
+F:\GitHub\MSOpenTech\connectthedots\Devices\DirectlyConnectedDevices\NodeJS\IntelEdisonSensorTag\obj\Debug\ConnectTheDotsIntelEdisonSensorTag.njsprojResolveAssemblyReference.cache

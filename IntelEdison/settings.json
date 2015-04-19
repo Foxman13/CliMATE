@@ -1,0 +1,10 @@
+﻿{
+    "namespace": "deloreantest-ns",
+    "keyname": "WebSite",
+    "key": "wpSAoX2Az5noPEswnDtZB6Z8Kccy2Gqr29c2OujjD24=",
+    "eventhubname": "ehdevices",
+    "guid": "7F948AC5-764E-4FC6-9279-6579F81AF618",
+    "displayname": "DeLorean1",
+    "organization": "Microsoft",
+    "location":  "Dallas"
+}
