@@ -1,0 +1,70 @@
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\resources.pri
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\AppxManifest.xml
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.build.appxrecipe
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\App.g.cs
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.cs
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.Resources.AppResources.resources
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.csproj.GenerateResource.Cache
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\priconfig.xml
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\priconfig.xml.intermediate
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\layout.resfiles
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\layout.resfiles.intermediate
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\resources.resfiles
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\resources.resfiles.intermediate
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\pri.resfiles
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\pri.resfiles.intermediate
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\qualifiers.txt
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\qualifiers.txt.intermediate
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\ProjectArchitectures.txt
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\MDILProjectFiles.xml
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+c:\users\enamulkh\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\resources.pri
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\AppxManifest.xml
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.build.appxrecipe
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Heckster\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\App.g.cs
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.cs
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.Resources.AppResources.resources
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.csproj.GenerateResource.Cache
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\priconfig.xml
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\priconfig.xml.intermediate
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\layout.resfiles
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\layout.resfiles.intermediate
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\resources.resfiles
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\resources.resfiles.intermediate
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\pri.resfiles
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\pri.resfiles.intermediate
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\qualifiers.txt
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\qualifiers.txt.intermediate
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\ProjectArchitectures.txt
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\MDILProjectFiles.xml
+C:\Heckster\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
