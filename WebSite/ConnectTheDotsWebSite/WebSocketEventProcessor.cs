@@ -232,16 +232,16 @@ namespace ConnectTheDotsWebSite
                                 if (!String.IsNullOrEmpty(messagePayload["value"].ToString()))
                                 {
 
-                                    CloudStorageAccount storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=deloreanteststorage;AccountKey=hkiGr1H5G4EotYlRI70y+yCyxVNrA7WxS6a3Go4NcZSClhHUiTTIoxlPy8ETYNo4tmFumjn+gF7NEqB4k9Nrbw==");
+                                    CloudStorageAccount storageAccount = CloudStorageAccount.Parse("Storage Connection String");
 
                                     // Create the table client.
                                     CloudTableClient tableClient = storageAccount.CreateCloudTableClient();
 
                                     // Create the CloudTable object that represents the "people" table.
-                                    CloudTable table = tableClient.GetTableReference("deloreandata");
+                                    CloudTable table = tableClient.GetTableReference("Table Storage Name");
 
                                     // Create a new customer entity.
-                                    DeloreanData data = new DeloreanData("delorean", "");
+                                    DeloreanData data = new DeloreanData("Table Storage Primary Key", "");
 
 
                                     if (messagePayload.ContainsKey("measurename"))
