@@ -17,6 +17,11 @@ namespace PhoneApp1
         // Constructor
         private DispatcherTimer timer;
 
+        private const string tempUrl = "<insert URL here>";
+        private const string checkEngineStartUrl = "<insert URL here>";
+        private const string startEngineUrl = "<insert URL here>";
+        private const string stopEngineUrl = "<insert URL here>";
+
         public MainPage()
         {
             InitializeComponent();
@@ -44,10 +49,10 @@ namespace PhoneApp1
 
 
             c2.DownloadStringCompleted += c2_DownloadStringCompleted;
-            
-            c.DownloadStringAsync(new Uri("http://archos.azurewebsites.net/delorean/GetCurrentTemperature"));
 
-            c2.DownloadStringAsync(new Uri("http://archos.azurewebsites.net/delorean/CheckEngineStart"));
+            c.DownloadStringAsync(new Uri(tempUrl));
+
+            c2.DownloadStringAsync(new Uri(checkEngineStartUrl));
            
         }
 
@@ -70,14 +75,14 @@ namespace PhoneApp1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             WebClient c = new WebClient();
-            c.DownloadStringAsync(new Uri("http://archos.azurewebsites.net/delorean/StartEngine"));
+            c.DownloadStringAsync(new Uri(startEngineUrl));
             timer_Tick(null, null);
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             WebClient c = new WebClient();
-            c.DownloadStringAsync(new Uri("http://archos.azurewebsites.net/delorean/StopEngine"));
+            c.DownloadStringAsync(new Uri(stopEngineUrl));
             timer_Tick(null, null);
         }
 
